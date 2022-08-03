@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_d2x.mk
+    $(LOCAL_DIR)/lmodroid_d2x.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_d2x-eng \
-    lineage_d2x-user \
-    lineage_d2x-userdebug
+    lmodroid_d2x-eng \
+    lmodroid_d2x-user \
+    lmodroid_d2x-userdebug
